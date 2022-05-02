@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  height: 100%;
+  background-color: #5d2e46;
+}
+#word {
+  margin: auto;
+  color: #e8d6cb;
+  font: 700 normal;
+  font-size: 50px;
+  text-shadow: 3px 2px #ad6a6c;
+}
